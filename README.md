@@ -1,9 +1,30 @@
-﻿# Maze Monster
+# 🧠 Maze Solver with Computer Vision
 
+This project is a collection of computer vision techniques designed to **read**, **optimize**, and **process images**, with a specific focus on **solving mazes** from image files using algorithms like **Breadth-First Search (BFS)**.
 
-This Project is a compilation of set of methods used in computer vision
-to read, optimize and process images
-with a specific focus on solving MAZE
+---
 
+## 🚀 Features
 
+- Load and preprocess maze images (grayscale, thresholding)
+- Convert images into navigable grids
+- Solve mazes using BFS for shortest pathfinding
+- Visualize the path over the original maze
+- Modular structure for easy experimentation and extension
 
+---
+
+## 📷 Example
+
+Input Maze (Image) → Grayscale → Binary → Solved Maze with Path:
+
+![Maze Example](example/solved_maze.png)
+
+---
+
+## 🛠️ Installation
+
+Make sure you have Python 3.7+ installed. Then, install the dependencies:
+
+```bash
+pip install -r requirements.txt
