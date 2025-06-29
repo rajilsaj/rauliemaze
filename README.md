@@ -18,7 +18,7 @@ This project is a collection of computer vision techniques designed to **read**,
 
 Input Maze (Image) → Grayscale → Binary → Solved Maze with Path:
 
-![Maze Example](example/solved_maze.png)
+![Maze Example 1 ](examples/example1.jpg)
 
 ---
 
