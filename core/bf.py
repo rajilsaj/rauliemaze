@@ -20,6 +20,10 @@ def solveDisplay(imagePath):
     #print(binary)
     print(image2Grid(binary))
     return binary
+
+def apply_a():
+    return 0
+
     
 plt.imshow(cv2.cvtColor(solveDisplay(imgPath), cv2.COLOR_BGR2RGB))
 plt.show()
