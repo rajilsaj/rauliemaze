@@ -1,0 +1,10 @@
+Saving binary maze image to: binary_maze.png
+Sample of maze grid (top-left 5x5):
+[[0 0 0 0 0]
+ [0 0 0 0 0]
+ [0 0 0 0 0]
+ [0 0 0 0 0]
+ [0 0 0 0 0]]
+Solving maze from (0, 0) to (220, 176)...
+Path found! Length: 397
+Saving solved maze image to: solved_maze.png
